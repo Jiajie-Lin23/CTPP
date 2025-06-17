@@ -2,16 +2,7 @@
 This repository contains the implementation of a **Core Tree Labeling** algorithm designed for graph processing and analysis tasks. The key components include a main program (`CoreTreeLabeling.cpp`) and a header file (`CoreTreeLabelling.h`) that implements the core logic.
 
 ## Directory Structure
-├── CoreTreeLabeling.cpp # Main program entry point
-├── CoreTreeLabelling.h # Core algorithm implementation
-├── graph/ # Input graph datasets
-├── fb/ # Additional graph input files
-├── txt/ # Text-based input/output files
-├── result*/ # Output result directories
-├── run*.sh # Shell scripts for executing the program
-├── compare_files.py # Python script for result comparison
-├── 1.sh, 2.sh # Example script files
-└── readme.txt # Original plain text readme
+<pre lang="markdown"> ```text . ├── CoreTreeLabeling.cpp # Main program entry point ├── CoreTreeLabelling.h # Core algorithm implementation ├── graph/ # Input graph datasets ├── fb/ # Additional graph input files ├── txt/ # Text-based input/output files ├── result*/ # Output result directories ├── run*.sh # Shell scripts for executing the program ├── compare_files.py # Python script for result comparison ├── 1.sh, 2.sh # Example script files └── readme.txt # Original plain text readme ``` </pre>
 
 ## 📌 File Descriptions
 
