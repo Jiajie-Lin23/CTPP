@@ -7,9 +7,6 @@ This repository contains the implementation of a **Core Tree Labeling** algorith
 - ├── `graph/` — Input graph datasets  
 - ├── `fb/` — Intermediate output file
 - ├── `txt/` — Result file
-- ├── `result/` — Output result to record the process
-- ├── `compare_files.py` — Python script for result comparison  
-- ├── `1.sh` — The script to run the example  
 
 ## ⚙️ How to Compile and Run
 
