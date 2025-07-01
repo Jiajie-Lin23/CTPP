@@ -1,5 +1,5 @@
 # CTPP
-This repository contains the implementation of a **Core Tree Labeling** algorithm designed for graph processing and analysis tasks. The key components include a main program (`CoreTreeLabeling.cpp`) and a header file (`CoreTreeLabelling.h`) that implements the core logic.
+This repository contains the implementation of a **TRIM** algorithm designed for graph processing and analysis tasks. The key components include a main program (`CoreTreeLabeling.cpp`) and a header file (`CoreTreeLabelling.h`) that implements the core logic.
 
 ## Directory Structure
 - ├── `CoreTreeLabelling.cpp` — Main program entry point  
